@@ -3,4 +3,5 @@
 
 cd client
 echo 'Hello, Client!'
-cd ..
+cd ../server
+echo 'Hello, Server'
