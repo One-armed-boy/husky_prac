@@ -3,4 +3,4 @@
 
 cd client
 
-../huskyhooks/prePush
+./huskyhooks/prePush
