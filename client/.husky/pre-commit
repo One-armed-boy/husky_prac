@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-cd client && echo 'Hello, Client' && cd ../server && echo 'Hello, Server'
+cd client && echo 'Hello, client' && cd ..
+cd server && echo 'Hello, server'
