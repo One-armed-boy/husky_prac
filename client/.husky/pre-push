@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+cd client
 
 FORBIDDEN_HTTPS_URL="https://github.com/One-armed-boy/husky_prac.git" # insert your remote url (https)
 FORBIDDEN_SSH_URL="git@github.com:One-armed-boy/husky_prac.git" # insert your remote url (ssh)
